@@ -233,4 +233,6 @@ warn: AwesomeApi.ContentLengthRestrictionMiddleware[0]
 ````
 
 ## Conclusion
-That's it! Congratulations! You just 
+That's it! Congratulations! You just designed and created a custom Middleware! Give yourself a pat in the back. Don't forget to stretch your shoulders and neck once in a while.
+
+Happy Coding!
