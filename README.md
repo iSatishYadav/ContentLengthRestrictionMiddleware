@@ -1,4 +1,4 @@
-# Defence In-Depth: Designing an HTTP Content Length Restriction Middleware - ASP.NET 5 (or .NET Core)
+# Defense In-Depth: Designing an HTTP Content Length Restriction Middleware - ASP.NET 5 (or .NET Core)
 ## The What?
 
 We want to design a Middleware that - when plugged into an ASP.NET 5 (or .NET Core) application pipeline - restricts the input payload size, so attacks which rely of sending a bigger sized (or larger than our specified size) payload can be rejected by Application itself.
